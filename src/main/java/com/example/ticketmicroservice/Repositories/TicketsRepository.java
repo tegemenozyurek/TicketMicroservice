@@ -6,5 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface TicketsRepository extends JpaRepository<Tickets, Long> {
-
+    
 }
