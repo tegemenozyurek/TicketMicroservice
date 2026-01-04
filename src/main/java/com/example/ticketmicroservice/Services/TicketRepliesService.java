@@ -1,5 +1,7 @@
-package com.example.ticketmicroservice;
+package com.example.ticketmicroservice.Services;
 
+import com.example.ticketmicroservice.Entities.TicketReplies;
+import com.example.ticketmicroservice.Repositories.TicketRepliesRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

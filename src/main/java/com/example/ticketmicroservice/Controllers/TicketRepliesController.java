@@ -1,6 +1,7 @@
-package com.example.ticketmicroservice;
+package com.example.ticketmicroservice.Controllers;
 
-import org.springframework.stereotype.Controller;
+import com.example.ticketmicroservice.Entities.TicketReplies;
+import com.example.ticketmicroservice.Services.TicketRepliesService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.ticketmicroservice;
+package com.example.ticketmicroservice.Entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
